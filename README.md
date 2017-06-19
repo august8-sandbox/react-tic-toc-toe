@@ -1,2 +1,2 @@
-# react-tic-tock-toe
+# react-tic-toc-toe
 react tutorial
